@@ -1,0 +1,7 @@
+[user]
+	name = Xuefeng Xu
+	email = xuxf100@qq.com
+[core]
+	editor = vim
+[alias]
+	graph = log --all --graph --decorate --oneline
