@@ -102,7 +102,6 @@ alias bat=batcat
 
 alias ..='cd ..'
 alias ~='cd ~'
-alias -='cd -'
 
 alias l='ls'
 alias la='ls -a'
